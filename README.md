@@ -1,5 +1,8 @@
 # 🏥 CareCopilot — AI-Powered Healthcare Intelligence Platform
 
+<img width="200" height="90" alt="image" src="https://github.com/user-attachments/assets/92a627dd-1f3e-4472-aade-889f70228648" />
+
+
 An AI intelligence layer for small clinics — combining a **RAG-based clinical assistant**, **real-time analytics dashboard**, and **automated patient intake workflows** into one product.
 
 > **⚠️ Important:** This is a **decision-support and operations tool**, not a diagnostic device. All data in the MVP is synthetic — never real patient data.
@@ -17,24 +20,8 @@ An AI intelligence layer for small clinics — combining a **RAG-based clinical 
 
 ## 🏗️ Architecture
 
-```
-┌──────────────────────────┐       ┌──────────────────────────────┐
-│   React 18 + Vite 6       │ HTTP  │          FastAPI               │
-│   Tailwind CSS + Recharts  │◄────►│  /api/auth  /api/chat          │
-│   - Landing Page           │       │  /api/intake  /api/analytics   │
-│   - Chat UI                │       │  /api/documents                │
-│   - Dashboard              │       │  - JWT Auth                    │
-│   - Intake Form            │       │  - RAG Pipeline                │
-└──────────────────────────┘       └──────────────┬─────────────────┘
-                                                   │
-                    ┌──────────────────────────────┼──────────────────────┐
-                    ▼                              ▼                      ▼
-           ┌────────────────┐          ┌────────────────┐       ┌──────────────┐
-           │ Knowledge Base  │          │   SQLite DB     │       │ LLM APIs     │
-           │ (JSON → v2:     │          │  (→ v2:         │       │ Groq         │
-           │  ChromaDB)      │          │   Postgres)     │       │ Gemini       │
-           └────────────────┘          └────────────────┘       └──────────────┘
-```
+<img width="1536" height="1024" alt="ChatGPT Image Jul 16, 2026, 03_56_59 PM" src="https://github.com/user-attachments/assets/d9bf9cc4-58c5-4c45-a9a9-287e636fcc1f" />
+
 
 ## 📁 Project Structure
 
