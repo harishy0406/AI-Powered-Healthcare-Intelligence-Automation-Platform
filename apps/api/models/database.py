@@ -17,7 +17,11 @@ class UserRole(str, enum.Enum):
     staff = "staff"
 
 
-
+class AppointmentStatus(str, enum.Enum):
+    scheduled = "scheduled"
+    completed = "completed"
+    no_show = "no_show"
+    cancelled = "cancelled"
 
 
 # --- Models ---
