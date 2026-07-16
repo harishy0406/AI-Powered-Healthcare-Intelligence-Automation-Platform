@@ -1,0 +1,38 @@
+[
+  {
+    "title": "ADA Standards of Care in Diabetes (2024)",
+    "page": "Chapter 9",
+    "keywords": ["diabetes", "metformin", "hba1c", "type 2", "insulin", "sglt2", "glp-1"],
+    "content": "Type 2 Diabetes Management Protocol:\n\nDiagnosis Criteria (ADA):\n- Fasting Plasma Glucose ≥126 mg/dL\n- HbA1c ≥6.5%\n- 2-hour PG ≥200 mg/dL during OGTT\n- Random PG ≥200 mg/dL with symptoms\n\nTreatment Algorithm:\n1. Step 1: Lifestyle modifications + Metformin (first-line)\n   - Start 500mg once or twice daily with meals\n   - Maximum 2,550mg/day in divided doses\n   - Monitor renal function (eGFR)\n   - Hold before and 48h after iodinated contrast\n2. Step 2: Add second agent based on patient profile:\n   - Cardiovascular disease → SGLT2 inhibitor (empagliflozin, dapagliflozin) or GLP-1 RA (semaglutide, liraglutide)\n   - Obesity → GLP-1 RA\n   - Cost concern → Sulfonylurea or TZD\n3. Step 3: Triple therapy or insulin initiation\n\nMetformin Key Points:\n- Mechanism: Decreases hepatic glucose production, improves insulin sensitivity\n- Contraindications: eGFR <30 mL/min, metabolic acidosis, diabetic ketoacidosis\n- Common side effects: Nausea, diarrhea, flatulence (usually transient)\n- Drug interaction: Caution with carbonic anhydrase inhibitors (lactic acidosis risk)\n\nMonitoring:\n- HbA1c every 3 months (target <7% for most adults)\n- Annual: eye exam, foot exam, renal function, lipid panel\n- Self-monitoring of blood glucose as needed"
+  },
+  {
+    "title": "ACC/AHA Hypertension Guidelines (2017)",
+    "page": "Table 15, Recommendations 1-9",
+    "keywords": ["hypertension", "blood pressure", "bp", "ace inhibitor", "arb", "amlodipine", "diuretic", "losartan"],
+    "content": "Hypertension Management Protocol:\n\nDiagnosis Threshold:\n- Stage 1: ≥130/80 mmHg\n- Stage 2: ≥140/90 mmHg\n\nFirst-line Medications:\n1. ACE Inhibitors (Enalapril, Lisinopril) — preferred for diabetes/CKD patients\n2. ARBs (Losartan, Valsartan) — alternative to ACEi if cough develops\n3. Calcium Channel Blockers (Amlodipine, Nifedipine) — preferred for African American patients\n4. Thiazide Diuretics (Hydrochlorothiazide, Chlorthalidone)\n\nLifestyle Modifications:\n- DASH diet, sodium restriction (<2.3g/day)\n- Regular exercise (150 min/week moderate intensity)\n- Weight management (target BMI <25)\n- Limit alcohol (<2 drinks/day men, <1 women)\n- Smoking cessation\n\nCombination Therapy:\n- If BP >20/10 above target, start with 2-drug combination\n- ACEi + CCB or ACEi + Thiazide are preferred combinations\n- NEVER combine ACEi + ARB (hyperkalemia risk)\n\nFollow-up: Recheck BP in 1 month after initiation/adjustment\nTarget: <130/80 for most adults, <140/90 for >65 years"
+  },
+  {
+    "title": "Clinical Pharmacology Drug Interactions Reference",
+    "page": "Section 4.2",
+    "keywords": ["drug interaction", "interaction", "warfarin", "nsaid", "bleeding", "statin"],
+    "content": "Common Drug Interactions in Primary Care:\n\n1. Warfarin + NSAIDs — Increased bleeding risk. Use acetaminophen instead. Monitor INR closely if unavoidable.\n2. ACEi/ARBs + Potassium-sparing diuretics (spironolactone) — Risk of hyperkalemia. Monitor K+ levels within 1 week.\n3. SSRIs + NSAIDs — Increased GI bleeding risk (both inhibit platelet function). Consider PPI co-prescription.\n4. Statins + Macrolides (clarithromycin, erythromycin) — Increased myopathy/rhabdomyolysis risk via CYP3A4 inhibition.\n5. Metformin + Iodinated contrast dye — Risk of lactic acidosis. Hold metformin 48h before and after.\n6. Ciprofloxacin + Theophylline — Increased theophylline toxicity (inhibits CYP1A2). Reduce theophylline dose 30-50%.\n7. Beta-blockers + Verapamil/Diltiazem — Risk of severe bradycardia and heart block. Avoid combination.\n8. Digoxin + Amiodarone — Amiodarone increases digoxin levels 70-100%. Reduce digoxin dose by half.\n9. Clopidogrel + Omeprazole — Omeprazole reduces clopidogrel activation. Use pantoprazole instead.\n10. Lithium + NSAIDs/ACEi/Thiazides — All increase lithium levels. Monitor lithium levels closely."
+  },
+  {
+    "title": "GINA 2024 Report",
+    "page": "Box 3-5, Step Therapy",
+    "keywords": ["asthma", "inhaler", "ics", "saba", "laba", "gina", "bronchodilator", "steroid"],
+    "content": "Asthma Management (GINA 2024):\n\nStepwise Approach:\n- Step 1-2: As-needed low-dose ICS-formoterol (PREFERRED) or as-needed SABA with low-dose ICS\n- Step 3: Low-dose ICS-LABA maintenance + as-needed ICS-formoterol\n- Step 4: Medium-dose ICS-LABA maintenance\n- Step 5: High-dose ICS-LABA ± add-on therapy (tiotropium, biologics like omalizumab)\n\nKey Changes in GINA 2024:\n- SABA-only treatment is NO LONGER RECOMMENDED as sole therapy\n- All adults/adolescents with asthma should receive ICS-containing therapy\n- ICS-formoterol is preferred reliever at all steps\n\nMonitoring:\n- Peak flow monitoring for moderate-severe patients\n- Written asthma action plan for ALL patients\n- Review inhaler technique at every visit\n- Assess control: daytime symptoms, night waking, reliever use, activity limitation\n\nEmergency Management:\n- Severe exacerbation: Nebulized SABA + ipratropium + systemic corticosteroids + oxygen\n- If no improvement in 1 hour: consider IV magnesium sulfate\n- ICU if: drowsy, confused, silent chest, PEF <25% predicted"
+  },
+  {
+    "title": "WHO Model List of Essential Medicines (2023)",
+    "page": "Section 18.5, Analgesics",
+    "keywords": ["essential medicines", "paracetamol", "ibuprofen", "pain", "analgesic", "acetaminophen", "dosage"],
+    "content": "Common Analgesic Dosing Guidelines:\n\nParacetamol (Acetaminophen):\n- Adult: 500-1000mg every 4-6 hours, max 4g/day\n- Pediatric: 10-15 mg/kg every 4-6 hours\n- Hepatotoxicity risk above 4g/day or with chronic alcohol use\n- Safe in pregnancy (all trimesters)\n\nIbuprofen:\n- Adult: 200-400mg every 4-6 hours, max 1.2g/day (OTC) or 2.4g/day (prescription)\n- Take with food to reduce GI side effects\n- Contraindications: active GI ulcer, severe renal impairment, third trimester pregnancy\n- Caution in elderly (renal, cardiovascular risk)\n\nNSAID Safety:\n- All NSAIDs carry cardiovascular risk (except low-dose aspirin)\n- Naproxen may have lowest CV risk among NSAIDs\n- GI protection (PPI) recommended if: age >65, history of ulcer, concurrent anticoagulant/steroid\n- Avoid in CKD stage 4-5 (eGFR <30)"
+  },
+  {
+    "title": "ICMR Guidelines for Management of T2DM",
+    "page": "Section III, Indian Population",
+    "keywords": ["icmr", "india", "indian", "diabetes", "diet", "lifestyle"],
+    "content": "ICMR Diabetes Management for Indian Population:\n\nDietary Recommendations:\n- Reduce refined carbohydrates (white rice, maida)\n- Increase fiber intake (whole grains, vegetables, dals)\n- Limit fruit juice (prefer whole fruits, 2 servings/day)\n- Cooking oil: <20g/day, prefer mustard/groundnut/rice bran oil\n- Salt: <5g/day\n\nPhysical Activity:\n- 150 minutes/week moderate activity (brisk walking)\n- Resistance training 2-3 times/week\n- Reduce prolonged sitting (break every 30 minutes)\n\nScreening:\n- Annual screening for all adults >30 with risk factors\n- HbA1c or fasting glucose preferred\n- Screen for complications annually: retinopathy, nephropathy, neuropathy, foot exam\n\nIndian-Specific Considerations:\n- Indians develop diabetes at lower BMI (threshold: BMI >23 for overweight)\n- Higher prevalence of insulin resistance\n- Genetic predisposition (family history very significant)\n- Urban lifestyle change is a major risk factor"
+  }
+]
