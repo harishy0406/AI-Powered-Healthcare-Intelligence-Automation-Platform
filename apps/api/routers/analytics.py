@@ -61,13 +61,4 @@ async def get_overview(
     result = await db.execute(select(func.count(ChatQuery.id)))
     ai_queries = result.scalar() or 0
 
-    return AnalyticsOverview(
-        total_patients=total_patients,
-        total_appointments=total_appointments,
-        completed_appointments=completed,
-        no_show_count=no_show_count,
-        no_show_rate=round(no_show_rate, 1),
-        top_complaints=top_complaints,
-        monthly_volume=monthly_volume,
-        ai_queries_count=ai_queries,
-    )
+    
