@@ -78,7 +78,19 @@ async def generate_intake_summary(intake_data: dict) -> str:
 
 Generate a structured clinical summary."""
 
-    
+    if settings.groq_api_key:
+        try:
+            return await _call_groq(user_message, INTAKE_PROMPT, settings.groq_api_key)
+        except Exception:
+            pass
+
+    if settings.google_api_key:
+        try:
+            return await _call_gemini(user_message, INTAKE_PROMPT, settings.google_api_key)
+        except Exception:
+            pass
+
+    return _mock_intake_summary(intake_data)
 
 
 async def _call_groq(user_msg: str, system_msg: str, api_key: str) -> str:
